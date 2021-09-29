@@ -1,3 +1,3 @@
-#Demo
+# Demo
 
-This is the demo page for the domo-ing.
+This is the demo page for the demo-ing.
